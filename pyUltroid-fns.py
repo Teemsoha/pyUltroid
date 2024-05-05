@@ -9,17 +9,17 @@ with open("README.md", "r", encoding="utf-8") as fh:
 long_description = "# pyUltroid-fns"
 
 name = "pyUltroid-fns"
-author = "TeamUltroid"
+author = "Teemsoha"
 author_email = "teamultroid@protonmail.ch"
 description = "Function based library for telegram telethon projects."
 license_ = "GNU AFFERO GENERAL PUBLIC LICENSE (v3)"
 
-url = "https://github.com/TeamUltroid/pyUltroid"
+url = "https://github.com/Teemsoha/pyUltroid"
 
 project_urls = {
-    "Bug Tracker": "https://github.com/TeamUltroid/pyUltroid/issues",
+    "Bug Tracker": "https://github.com/Teemsoha/pyUltroid/issues",
     "Documentation": "https://ultroid.tech",
-    "Source Code": "https://github.com/TeamUltroid/pyUltroid",
+    "Source Code": "https://github.com/Teemsoha/pyUltroid",
 }
 classifiers = [
     "Programming Language :: Python :: 3",
